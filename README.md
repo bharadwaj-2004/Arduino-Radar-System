@@ -34,8 +34,8 @@ This project uses an Arduino UNO, HC-SR04 ultrasonic sensor, and a servo motor t
 
 ##  Usage
 
-1. Upload `radar.ino` to Arduino using Arduino IDE
-2. Run `ProcessingRadar.pde` in Processing (make sure Arduino Serial Monitor is closed)
+1. Upload `arduino code` to Arduino using Arduino IDE
+2. Run `Processing code` in Processing (make sure Arduino Serial Monitor is closed)
 3. COM port must match (e.g., "COM6")
 
 ---
