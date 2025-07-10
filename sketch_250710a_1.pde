@@ -1,3 +1,5 @@
+//this the code which is to be uploaded on PROCESSING.
+
 import processing.serial.*;
 Serial myPort;
 
