@@ -1,3 +1,5 @@
+//THIS IS THE CODE FOR arduinoIDE.
+
 #include <Servo.h>
 
 const int trigPin = 9;
